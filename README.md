@@ -38,7 +38,9 @@
 - Création de tableaux de bord interactifs et des visualisations de données.
   
 **Teacher Assistant @ Le Wagon (_Juillet 2022 - Février 2023_)**
+
 **Analyste Financier @ ArcelorMittal Treasury (_Février 2020 - Juin 2023_)**
+
 **Venture Capital Analyst @ Airbus Venture (Septembre 2018 - Mars 2019)**
 
 
