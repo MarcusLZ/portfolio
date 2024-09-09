@@ -22,7 +22,7 @@
 - Études approfondies sur la data augmentation, pour augmenter la robustesse du modèle face à différentes conditions de lumière, d'angle et de résolution.
 - Entraînement et optimisation des paramètres du modèle, avec un ajustement fin pour maximiser la précision de la segmentation (~85% mIoU).
 - Développement d'un algorithme de traitement d'image capable de modifier de manière réaliste la couleur de la zone détourée, tout en préservant les textures et les ombres naturelles de la façade.
-- 
+
 ### Développement et mise en production d'un pipeline automatisé pour la génération d'articles de recherche à partir de graphiques scientifiques @ Université PSL (Paris Sciences & Lettres)
 
 - Conception et entraînement d'un classifieur de graphiques, capable de distinguer différents types de graphique (histogrammes, courbes, nuages de points) et de les orienter vers les algorithmes d'extraction appropriés.
