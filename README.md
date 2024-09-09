@@ -18,7 +18,7 @@
 - Entraînement et optimisation des paramètres du modèle, avec un ajustement fin pour maximiser la précision de la segmentation (~85% mIoU).
 - Développement d'un algorithme de traitement d'image capable de modifier de manière réaliste la couleur de la zone détourée, tout en préservant les textures et les ombres naturelles de la façade.
 
-![Segmentation d'image](assets/img/key_figures_segmentation_img.jpg "Segmentation d'image")
+![Segmentation d'image](assets/img/segmentation_img.jpg "Segmentation d'image")
 
 ### Développement d'un modèle de machine learning pour la prévision du trafic aérien avec XGBoost @ Naveo Consulting
 
