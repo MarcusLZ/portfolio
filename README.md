@@ -5,7 +5,7 @@
 ## Education
 - Bootcamp, Data Science | Le Wagon (_Juillet 2022_)								       		
 - Master, Finance	| Edhec Business School (_Juin 2018_)	 			        		
-- Licence, Mathématiques appliquées | Toulouse School of Economics (_May 2014_)
+- Licence, Mathématiques | Toulouse School of Economics (_May 2014_)
 
 ## Projets récents
 ### Développement d'un modèle de machine learning pour la prévision du trafic aérien avec XGBoost @ Naveo Consulting
