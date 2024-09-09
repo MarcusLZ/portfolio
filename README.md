@@ -8,6 +8,18 @@
 - Licence, Mathématiques | Toulouse School of Economics (_Mai 2014_)
 
 ## Projets récents
+### Développement d'un programme de segmentation d'image pour modifier la couleur de la façade d'une maison sur une photo avec Pytorch @ ParexLanko
+
+[Vidéo du modèle](https://www.loom.com/share/f80fabccb75146aeb042374e20ada5b2?sid=ef034fda-362c-431f-a3c8-eed361733092)
+
+- Création d'un dataset optimisé pour la segmentation d'images, en se concentrant sur la diversité et la représentativité des façades de maisons pour des résultats précis. 
+- Recherche et sélection de modèles de deep learning adaptés à la tâche de segmentation, avec une attention particulière sur leur capacité à délimiter précisément les contours des façades.
+- Études approfondies sur la data augmentation, pour augmenter la robustesse du modèle face à différentes conditions de lumière, d'angle et de résolution.
+- Entraînement et optimisation des paramètres du modèle, avec un ajustement fin pour maximiser la précision de la segmentation (~85% mIoU).
+- Développement d'un algorithme de traitement d'image capable de modifier de manière réaliste la couleur de la zone détourée, tout en préservant les textures et les ombres naturelles de la façade.
+
+![Segmentation d'image](assets/img/key_figures_segmentation_img.jpg "Segmentation d'image")
+
 ### Développement d'un modèle de machine learning pour la prévision du trafic aérien avec XGBoost @ Naveo Consulting
 
 - Collaboration avec des experts du secteur pour la création d'un dataset riche et pertinent, intégrant des variables clés influençant le trafic aérien.
@@ -15,17 +27,7 @@
 - Entraînement de plusieurs modèles de machine learning (Random Forest, XGBoost et CatBoost), pour identifier les meilleures approches.
 - Évaluation des performances des modèles, avec une analyse détaillée des résultats et des erreurs, permettant d'affiner et d'améliorer la précision des prévisions.
 
-### Développement d'un programme de segmentation d'image pour modifier la couleur de la façade d'une maison sur une photo avec Pytorch @ ParexLanko
-
-[Vidéo du modèle](https://www.loom.com/share/f80fabccb75146aeb042374e20ada5b2?sid=ef034fda-362c-431f-a3c8-eed361733092)
-
-- Création d'un dataset optimisé pour la segmentation d'images, en se concentrant sur la diversité et la représentativité des façades de maisons pour des résultats précis.
-- Recherche et sélection de modèles de deep learning adaptés à la tâche de segmentation, avec une attention particulière sur leur capacité à délimiter précisément les contours des façades.
-- Études approfondies sur la data augmentation, pour augmenter la robustesse du modèle face à différentes conditions de lumière, d'angle et de résolution.
-- Entraînement et optimisation des paramètres du modèle, avec un ajustement fin pour maximiser la précision de la segmentation (~85% mIoU).
-- Développement d'un algorithme de traitement d'image capable de modifier de manière réaliste la couleur de la zone détourée, tout en préservant les textures et les ombres naturelles de la façade.
-
-![Segmentation d'image](assets/img/key_figures_segmentation_img.jpg "Segmentation d'image")
+![Analyse de survie](assets/img/key_figures_survival.jpg "Analyse de survie")
 
 ### Développement et mise en production d'un pipeline automatisé pour la génération d'articles de recherche à partir de graphiques scientifiques @ Université PSL (Paris Sciences & Lettres)
 
