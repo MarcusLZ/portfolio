@@ -29,17 +29,19 @@
 - Mise en production du modèle et des algorithmes de prétraitement de données sur Google Cloud Platform. 
 - Développement d'une interface web pour permettre au client d'utiliser facilement le modèle et d'exporter les résultats dans ses outils.
 
-![Analyse de survie](assets/img/key_figures_survival.jpg "Analyse de survie")
-![Interface - exemple](assets/img/interface.jpg "Interface - exemple")
+![Analyse de survie](assets/img/key_figures_survival_1.jpg "Analyse de survie")
+![Interface - exemple](assets/img/interface-exemple.jpg "Interface - exemple")
 
 ### Développement et mise en production d'un programme combinant un algorithme d'extraction d'image et un LLM @ Université PSL (Paris Sciences & Lettres)
-#### _Technologies utilisées : OpenCV, HuggingFace, Mistral, LangChain, Numpy, PyTorch, AWS_
+#### _Technologies utilisées : OpenCV, HuggingFace, Mistral, LangChain, Numpy, PyTorch, AWS, docker_
 
 - Conception et entraînement d'un modèle de classification capable de reconnaître différents graphiques (histogrammes, courbes, nuages de points) afin de les orienter vers des algorithmes d'extraction appropriés.
 - Développement, avec OpenCV, d'un algorithme de computer vision pour extraire automatiquement les données d'un "Western blot" (graphique utilisé dans le recherche médicale).
 - Extraction automatique des données de graphiques classiques (histogrammes, courbes) grâce à un modèle de deep learning (DePlot).
 - Prompt engineering, avec Mistral et LangChain, pour générer automatiquement l'analyse des données extraites des graphiques.
 - Mise en production du pipeline complet, incluant l'intégration avec le back-end (AWS) et la base de données du client (MongoDB).
+
+![Extraction d'images & LLM](assets/img/key_fig_iroc.jpg "Extraction d'images & LLM")
 
 ## Experience
 **Data Scientist Consultant @ Freelance (_Juillet 2023 - Aujourd'hui_)**
