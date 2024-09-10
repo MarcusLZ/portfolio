@@ -42,6 +42,7 @@
 - Mise en production du pipeline complet, incluant l'intégration avec le back-end (AWS) et la base de données du client (MongoDB).
 
 ![Extraction d'images & LLM](assets/img/key_fig_iroc.jpg "Extraction d'images & LLM")
+![Extraction Western blot - exemple](assets/img/extraction_wb.jpg "Extraction Western blot - exemple")
 
 ## Experience
 **Data Scientist Consultant @ Freelance (_Juillet 2023 - Aujourd'hui_)**
