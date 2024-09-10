@@ -1,10 +1,15 @@
 # Data Scientist
 
+## Education
+- Bootcamp, Data Science - Le Wagon (_Juillet 2022_)								       		
+- Master, Finance - Edhec Business School (_Juin 2018_)	 			        		
+- Licence, Mathématiques - Toulouse School of Economics (_Mai 2014_)
+
 ## Projets récents
 ### Développement d'un programme capable de délimiter la façade d'une maison sur une photo @ ParexLanko
-#### Technologies utilisées : Python, Pytorch, albumentations, Hugging Face, Numpy
+#### _Technologies utilisées : Python, Pytorch, albumentations, Hugging Face, Numpy_
 
-[Vidéo du modèle](https://www.loom.com/share/f80fabccb75146aeb042374e20ada5b2?sid=ef034fda-362c-431f-a3c8-eed361733092)
+[Vidéo de démo du modèle](https://www.loom.com/share/f80fabccb75146aeb042374e20ada5b2?sid=ef034fda-362c-431f-a3c8-eed361733092)
 
 - Création d'un dataset optimisé pour la segmentation d'images (+640 images annotées), en se concentrant sur la diversité, la qualité et la représentativité des images. 
 - Recherche et sélection de modèles de deep learning adaptés à la problématique.
@@ -13,9 +18,10 @@
 - Développement d'un algorithme de traitement d'image pour appliquer de manière réaliste la texture sur la zone détourée.
 
 ![Segmentation d'image](assets/img/segmentation_img.jpg "Segmentation d'image")
+![Segmentation d'image - exemple](assets/img/image_segmentation_exemple.jpg "Segmentation d'image - exemple")
 
 ### Entrainement d'un modèle de machine learning afin de prédire la durée de vie d'un avion de ligne @ Naveo Consulting
-#### Technologies utilisées : Scikit-Survival, Scipy, Pandas, Google Cloud Platform, Google Big Query
+#### _Technologies utilisées : Scikit-Survival, Scipy, Pandas, Google Cloud Platform, Google Big Query_
 
 - Collaboration avec des experts du secteur pour créer un dataset pertinent, intégrant les variables clés ayant une influence sur la durée de vie d'un avion.
 - Prétraitement des données, incluant le nettoyage, le formatage et la gestion des valeurs manquantes, afin de garantir une qualité optimale pour l'entraînement des modèles.
@@ -24,9 +30,10 @@
 - Développement d'une interface web pour permettre au client d'utiliser facilement le modèle et d'exporter les résultats dans ses outils.
 
 ![Analyse de survie](assets/img/key_figures_survival.jpg "Analyse de survie")
+![Interface - exemple](assets/img/interface.jpg "Interface - exemple")
 
 ### Développement et mise en production d'un programme combinant un algorithme d'extraction d'image et un LLM @ Université PSL (Paris Sciences & Lettres)
-#### Technologies utilisées : OpenCV, HuggingFace, Mistral, LangChain, Numpy, PyTorch, AWS
+#### _Technologies utilisées : OpenCV, HuggingFace, Mistral, LangChain, Numpy, PyTorch, AWS_
 
 - Conception et entraînement d'un modèle de classification capable de reconnaître différents graphiques (histogrammes, courbes, nuages de points) afin de les orienter vers des algorithmes d'extraction appropriés.
 - Développement, avec OpenCV, d'un algorithme de computer vision pour extraire automatiquement les données d'un "Western blot" (graphique utilisé dans le recherche médicale).
@@ -44,12 +51,9 @@
 
 **Analyste Financier @ ArcelorMittal Treasury (_Février 2020 - Juin 2023_)**
 
-**Venture Capital Analyst @ Airbus Venture (Septembre 2018 - Mars 2019)**
+**Venture Capital Analyst @ Airbus Venture (_Septembre 2018 - Mars 2019_)**
 
-## Education
-- Bootcamp, Data Science - Le Wagon (_Juillet 2022_)								       		
-- Master, Finance - Edhec Business School (_Juin 2018_)	 			        		
-- Licence, Mathématiques - Toulouse School of Economics (_Mai 2014_)
+
 
 
 
